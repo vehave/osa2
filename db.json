@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Yksi",
+      "number": "1",
+      "id": 1
+    },
+    {
+      "name": "Kaksi",
+      "number": "2",
+      "id": 2
+    },
+    {
+      "name": "Kolme",
+      "number": "3",
+      "id": 3
+    },
+    {
+      "name": "Neljä",
+      "number": "4",
+      "id": 4
+    },
+    {
+      "name": "Viisi",
+      "number": "5",
+      "id": 5
+    },
+    {
+      "name": "Kuusi",
+      "number": "6",
+      "id": 6
+    }
+  ]
+}
